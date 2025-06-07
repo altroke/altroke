@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm passionate about the field of IT, with a speci
 
 ## About Me
 
+- 🏥 I work at University Medical Centre Ljubljana as a Telecommunications Specialist.
 - 🔭 I’m currently working on various projects related to telecommunications and cybersecurity.
 - 🌱 I’m always learning and exploring new technologies in the IT field.
 - 💬 Ask me about VoIP, network security, and anything tech-related!
